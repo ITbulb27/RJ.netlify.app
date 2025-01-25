@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Online Store</title>
-</head>
-<body>
+    </head>
+    <   body>
 
     <style>
         *{
@@ -14,7 +14,7 @@
     </style>
     <footer style="text-align: center;">
     <h1>My Online Store</h1>
-</footer>
+    </footer>
 
     <header id="top">
         <nav>
@@ -108,5 +108,5 @@
                 <p style="font-weight: bold;">All Rights Reserved &copy; RJ REOJA 2024></p>
                 <a href="#top" style="text-align: center;"> BACK to Top</a>
             </footer>
-</body>
-</html>
+        </body>
+    </html>
